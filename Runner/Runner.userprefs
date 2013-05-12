@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Runner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SkylineManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\Runner.cs" Line="14" Column="52" />
+      <File FileName="Assets\Scripts\Runner.cs" Line="17" Column="52" />
+      <File FileName="Assets\Scripts\SkylineManager.cs" Line="52" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
